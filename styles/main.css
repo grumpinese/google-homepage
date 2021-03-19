@@ -4,6 +4,14 @@ nav {
     padding: 0;
 }
 
+.left-align {
+    float: left;
+}
+
+.right-align {
+    float: right;
+}
+
 li {
     display: inline;
 }
