@@ -15,6 +15,20 @@ a:visited {
     font-size: 14px;
 }
 
+.main-body {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
 .footer {
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
